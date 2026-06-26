@@ -17,7 +17,7 @@ I'm a self-taught Full Stack JavaScript Developer passionate about building mode
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/dharmendra-dev-b346b7255
+- 💼 LinkedIn: https://www.linkedin.com/in/dharmendraji-dev
 - 🐦 X (Twitter): https://x.com/dharmchauhanji
 - 📧 Email: dmma359800@gmail.com
 
